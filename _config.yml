@@ -1,0 +1,6 @@
+title: Feli.red
+baseurl: ""
+url: ""
+# Disable default theme
+theme: null
+plugins: []
